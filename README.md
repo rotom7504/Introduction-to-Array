@@ -18,4 +18,5 @@ Algorithm for the program:-
 To know more about array, refer to the following website
 https://www.programiz.com/c-programming/c-arrays
 
-https://user-images.githubusercontent.com/125802204/222045679-980dc7a2-c02b-4838-8803-87efa7d67944.png
+![image](https://user-images.githubusercontent.com/106736021/232190461-0494c630-afa5-4126-9df9-e2703ee32582.png)
+
